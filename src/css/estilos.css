@@ -7,7 +7,7 @@ body{
     font-family: "Poppins", sans-serif;
     margin: 0 auto;
     max-width: 1120px;
-    background: linear-gradient(150deg, #dac0f0, #8a91fa, #20c4da);
+    background: linear-gradient(150deg, #8a91fa,   #c48afa);
     background-size: 120% 120%;
 }
 
@@ -110,7 +110,7 @@ body{
 }
 
 .home .foto.sombra-interna{
-    background: linear-gradient(to right, #8A35C8, #18c0b8, #ffffff);
+    background: linear-gradient(to right, #8A35C8, #18c0b8, #a200ff);
     background-size: 180% 180%;
     animation: gradient-animation 5s ease infinite;
 }
